@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8401'
     url: http://www.gutenberg.org/2009/agents/8401
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37038#Stories-of-the-Railroad
 gutenberg_issued: '2011-08-11'
 gutenberg_type: Text
 identifiers:
