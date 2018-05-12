@@ -1,0 +1,32 @@
+_repo: Stories-of-the-Railroad_37038
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37038-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hill, John A. (John Alexander)
+    birthdate: 1858
+    deathdate: 1916
+    gutenberg_agent_id: '8401'
+    url: http://www.gutenberg.org/2009/agents/8401
+description: ''
+gutenberg_issued: '2011-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37038'
+  lccn: '99004656'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Railroad stories'
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+tableOfContents: An engineer's Christmas story -- The clean man and the dirty angels
+  -- Jim Wainwright's kid -- A peg-legged romance -- My lady of the eyes -- Some freaks
+  of fate -- Mormon Joe, the robber -- A midsummer night's trip -- The polar zone.
+title: Stories of the Railroad
+url: http://www.gutenberg.org/ebooks/37038
